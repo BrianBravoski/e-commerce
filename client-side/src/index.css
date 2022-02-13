@@ -22,3 +22,13 @@ code {
 .navbar-brand{
   color: white !important;
 }
+
+h3{
+  font-size: 18px;
+  text-align: left;
+}
+
+.img-fluid{
+  max-height: 200px;
+  max-width: 200px !important;
+}
