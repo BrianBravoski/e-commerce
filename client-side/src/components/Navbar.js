@@ -1,11 +1,12 @@
 import React from 'react'
+import Homescreen from '../screens/Homescreen'
 
 export default function
     h1() {
     return (
         <div>
             <nav className="navbar navbar-expand-lg">
-                <a className="navbar-brand" href="{App}">Jambo Supermarket</a>
+                <a className="navbar-brand" href="{Homescreen}">Jambo Supermarket</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
